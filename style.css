@@ -67,13 +67,13 @@ html {
 }
 
 #main-title {
-  font-size: 22px;
+  font-size: 24px;
   margin-bottom: 15px;
   color: var(--slate-dark);
 }
 
 #main-content {
-  font-size: 16px;
+  font-size: 18px;
   color: var(--slate-medium);
 }
 
@@ -90,7 +90,7 @@ html {
 #footer-content {
   width: 90%;
   margin: 20px auto;
-  font-size: 14px;
+  font-size: 18px;
   color: var(--slate-dark);
 }
 
@@ -120,12 +120,12 @@ html {
   }
 
   #main-title {
-    font-size: 15px;
+    font-size: 16px;
     margin-bottom: 10px;
   }
 
   #main-content {
-    font-size: 11px;
+    font-size: 12px;
     line-height: 15px;
   }
 
