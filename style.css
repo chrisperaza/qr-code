@@ -67,19 +67,19 @@ html {
 }
 
 #main-title {
-  font-size: 22px;
+  font-size: 20px;
   margin-bottom: 15px;
   color: var(--slate-dark);
 }
 
 #main-content {
-  font-size: 16px;
+  font-size: 14px;
   color: var(--slate-medium);
 }
 
 #main-section {
   text-align: center;
-  padding: 20px 20px;
+  padding: 20px 30px;
 }
 
 #footer {
@@ -90,7 +90,7 @@ html {
 #footer-content {
   width: 90%;
   margin: 20px auto;
-  font-size: 16px;
+  font-size: 14px;
   color: var(--slate-dark);
 }
 
