@@ -67,13 +67,13 @@ html {
 }
 
 #main-title {
-  font-size: 20px;
+  font-size: 22px;
   margin-bottom: 15px;
   color: var(--slate-dark);
 }
 
 #main-content {
-  font-size: 14px;
+  font-size: 16px;
   color: var(--slate-medium);
 }
 
