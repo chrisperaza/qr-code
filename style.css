@@ -59,6 +59,7 @@ html {
   background-color: var(--white);
   padding: 15px;
   border-radius: 25px;
+  box-shadow: 0px 0px 12px hsla(216, 15%, 48%, 0.245);
 }
 
 #main-image {
@@ -85,11 +86,12 @@ html {
 #footer {
   width: 100%;
   text-align: center;
+  padding: 30px 0;
 }
 
 #footer-content {
   width: 90%;
-  margin: 20px auto;
+  margin: 0 auto;
   font-size: 14px;
   color: var(--slate-dark);
 }
